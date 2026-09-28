@@ -1,1 +1,3 @@
 This game has a playable character of a frog that jumps/moves around the terrain to catch 5 flies. The fly counter updates with every fly caught, and once all flies are caught, the win screen shows up!
+
+ITCH LINK: https://vesh28.itch.io/fly-galore
